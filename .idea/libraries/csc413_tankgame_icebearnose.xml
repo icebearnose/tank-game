@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="csc413-tankgame-icebearnose">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/csc413-tankgame-icebearnose/jar/csc413-tankgame-icebearnose.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
